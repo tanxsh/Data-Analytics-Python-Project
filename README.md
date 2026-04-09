@@ -31,8 +31,8 @@ This project analyzes over 2 million traffic collision records from the Californ
 ## Project Structure
 
 ```
-├── Data_Merging.ipynb       # Load and merge annual Crashes + Parties CSVs (2020–2025)
-├── Data_Analysis.ipynb      # Full EDA: geographic, demographic, and behavioral analysis
+├── Data Merging.ipynb       # Load and merge annual Crashes + Parties CSVs (2020–2025)
+├── Data Analysis.ipynb      # Full EDA: geographic, demographic, and behavioral analysis
 └── README.md
 ```
 
@@ -40,11 +40,11 @@ This project analyzes over 2 million traffic collision records from the Californ
 
 ## Methodology
 
-### Data Pipeline (`Data_Merging.ipynb`)
+### Data Pipeline (`Data Merging.ipynb`)
 - Loaded 12 CSV files (Crashes + Parties for each year: 2020–2025)
 - Concatenated into two master DataFrames and saved as merged CSVs for analysis
 
-### Analysis (`Data_Analysis.ipynb`)
+### Analysis (`Data Analysis.ipynb`)
 
 **Data Preparation**
 - Standardized column names across years
