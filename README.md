@@ -98,7 +98,7 @@ This project analyzes over 2 million traffic collision records from the Californ
 
 ---
 
-## Recommendations
+## Actionable Recommendations
 
 1. **Automated enforcement** — speed cameras in high-density urban areas to tackle speeding at scale
 2. **Physical infrastructure** — center median barriers and lane separators to prevent wrong-side collisions
